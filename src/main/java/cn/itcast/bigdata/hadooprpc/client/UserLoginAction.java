@@ -1,0 +1,21 @@
+package cn.itcast.bigdata.hadooprpc.client;
+
+import cn.itcast.bigdata.hadooprpc.protocol.IUserLoginService;
+import org.apache.hadoop.conf.Configuration;
+import org.apache.hadoop.ipc.RPC;
+
+import java.net.InetSocketAddress;
+
+/**
+ * @author y15079
+ * @create 2018-03-20 15:19
+ * @desc
+ **/
+public class UserLoginAction {
+	public static void main(String[] args) throws Exception{
+		IUserLoginService userLoginService = RPC.getProxy(IUserLoginService.class, 100L,
+				new InetSocketAddress("localhost", 9999), new Configuration());
+		String login = userLoginService.login("angelababy", "1314520");
+		System.out.println(login);
+	}
+}
