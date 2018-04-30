@@ -61,10 +61,13 @@ public class RJoin {
 	}
 
 	static class RJoinReducer extends Reducer<Text, InfoBean, InfoBean, NullWritable>{
+		//相同pid的迭代器会包含订单和商品
 		@Override
 		protected void reduce(Text pid, Iterable<InfoBean> beans, Context context) throws IOException, InterruptedException {
 			InfoBean pdBean = new InfoBean();
 			ArrayList<InfoBean> orderBeans = new ArrayList<InfoBean>();
+
+			//先把订单和商品分开
 			for (InfoBean bean: beans){
 				if ("1".equals(bean.getFlag())){
 					try {
@@ -83,6 +86,7 @@ public class RJoin {
 				}
 			}
 
+			//最后再合并
 			//拼接两类数据形成最终结果
 			for (InfoBean bean: orderBeans){
 				bean.setPname(pdBean.getPname());
