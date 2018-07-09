@@ -18,3 +18,6 @@
   3.只需要打包一个不带依赖的jar包即可<br/>
   4.在hadoop集群中运行命令，不需要指定运行的类名，因为打包的时候已经指定运行的main类，即META-INF中的MANIFEST.MF已经指定：<br/>
   > hadoop jar HadoopDemo.jar /flowsum/input /flowsum/output
+
+# 大数据平台架构技术选型与场景运用
+参考资料：https://blog.csdn.net/leishenop/article/details/73527467
