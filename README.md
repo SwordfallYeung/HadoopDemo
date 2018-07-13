@@ -21,3 +21,6 @@
 
 # 大数据平台架构技术选型与场景运用
 参考资料：https://blog.csdn.net/leishenop/article/details/73527467
+
+# 大数据的团队角色分类
+参考资料：https://www.jianshu.com/p/7383cc6f7933
