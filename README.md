@@ -24,3 +24,6 @@
 
 # 大数据的团队角色分类
 参考资料：https://www.jianshu.com/p/7383cc6f7933
+
+# 大数据的创建流程
+参考资料：https://www.zhihu.com/question/37627092
