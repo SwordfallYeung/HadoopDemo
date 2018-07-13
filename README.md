@@ -27,3 +27,6 @@
 
 # 大数据的创建流程
 参考资料：https://www.zhihu.com/question/37627092
+
+# 大数据的数据库混合使用模式
+参考资料：http://www.h3c.com/cn/d_201511/901094_30008_0.htm
