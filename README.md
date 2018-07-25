@@ -29,3 +29,4 @@
 参考资料：https://www.zhihu.com/question/37627092
 
 # 大数据算法模型的文档编写规则
+![avatar](https://github.com/qiushangwenyue/HadoopDemo/blob/master/resource/bigDataModelDesign.png)
