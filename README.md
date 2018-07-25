@@ -30,3 +30,11 @@
 
 # 大数据算法模型的文档编写规则
 ![avatar](https://github.com/qiushangwenyue/HadoopDemo/blob/master/resource/bigDataModelDesign.png)
+
+# docker搭建大数据集群Test
+参考资料：<br/>
+https://blog.csdn.net/cbl709/article/details/43955687<br/>
+https://blog.csdn.net/justhavetry/article/details/72901329<br/>
+https://blog.csdn.net/larger5/article/details/81153699<br/>
+http://bigdata.51cto.com/art/201702/529889.htm<br/>
+https://www.cnblogs.com/kex1n/p/6933039.html<br/>
