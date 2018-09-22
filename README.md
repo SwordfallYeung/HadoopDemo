@@ -31,6 +31,9 @@
 # 大数据算法模型的文档编写规则
 ![avatar](https://github.com/qiushangwenyue/HadoopDemo/blob/master/resource/bigDataModelDesign.png)
 
+### yarn application --list or --kill
+https://www.cnblogs.com/0xcafedaddy/p/8487340.html
+
 # docker搭建大数据集群Test
 参考资料：<br/>
 https://blog.csdn.net/cbl709/article/details/43955687<br/>
