@@ -41,3 +41,6 @@ https://blog.csdn.net/justhavetry/article/details/72901329<br/>
 https://blog.csdn.net/larger5/article/details/81153699<br/>
 http://bigdata.51cto.com/art/201702/529889.htm<br/>
 https://www.cnblogs.com/kex1n/p/6933039.html<br/>
+
+# 大数据成长过程
+https://blog.csdn.net/dufufd/article/details/78593945
