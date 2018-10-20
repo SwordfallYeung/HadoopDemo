@@ -47,3 +47,6 @@ https://www.cnblogs.com/kex1n/p/6933039.html<br/>
 
 ### 大数据成长过程
 https://blog.csdn.net/dufufd/article/details/78593945
+
+### 错误Name node is in safe mode的解决方法
+https://blog.csdn.net/xw13106209/article/details/6866072
