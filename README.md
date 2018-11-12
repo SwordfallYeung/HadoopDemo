@@ -37,6 +37,10 @@ https://www.cnblogs.com/0xcafedaddy/p/8487340.html
 ### yarn查看日志
 yarn logs -applicationId application_1517538889175_2550 > logs.txt
 
+### yarn 日志聚合相关参数设置
+https://www.cnblogs.com/xizhunet/p/5131731.html<br/>
+https://www.jianshu.com/p/83fcf7478dd7
+
 ### docker搭建大数据集群Test
 参考资料：<br/>
 https://blog.csdn.net/cbl709/article/details/43955687<br/>
