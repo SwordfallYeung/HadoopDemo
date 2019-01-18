@@ -54,3 +54,6 @@ https://blog.csdn.net/dufufd/article/details/78593945
 
 ### 错误Name node is in safe mode的解决方法
 https://blog.csdn.net/xw13106209/article/details/6866072
+
+### hadoop集群系统参数设置优化
+https://blog.csdn.net/u011478909/article/details/52440461
